@@ -1,7 +1,7 @@
 .content{
   position: relative;
   bottom: 10;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0);
   color: #f1f1f1;
   width: 95.5%;
   padding: 40px;
@@ -15,3 +15,9 @@
   min-width: 100%;
   min-height: 100%;
 }
+
+p{
+  color: white;
+  font: menu;
+}
+
